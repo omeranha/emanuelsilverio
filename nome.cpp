@@ -3,5 +3,7 @@ using namespace std;
 
 int main() {
     string nome = "Emanuel";
-    cout << nome;
+    int idade = 18;
+    cout << nome << endl;
+    cout << idade << endl;
 }
